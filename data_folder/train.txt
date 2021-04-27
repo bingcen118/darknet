@@ -1,0 +1,12 @@
+data_folder/trainset/frame0000.jpg
+data_folder/trainset/frame0007.jpg
+data_folder/trainset/frame0009.jpg
+data_folder/trainset/frame0011.jpg
+data_folder/trainset/frame0013.jpg
+data_folder/trainset/frame0015.jpg
+data_folder/trainset/frame0016.jpg
+data_folder/trainset/frame0017.jpg
+data_folder/trainset/frame0018.jpg
+data_folder/trainset/frame0020.jpg
+data_folder/trainset/frame0021.jpg
+data_folder/trainset/frame0022.jpg

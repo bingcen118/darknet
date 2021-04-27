@@ -1,0 +1,1 @@
+data_folder/validset/frame0008.jpg
