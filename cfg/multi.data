@@ -3,4 +3,3 @@ train  = data_yolo3/train.txt
 valid  = data_yolo3/valid.txt
 names = data/multi.names
 backup = 3class_backup
-
