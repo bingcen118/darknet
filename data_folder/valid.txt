@@ -1,0 +1,3 @@
+/home/bingcen/darknet/data_folder/validset/frame0003.jpg
+/home/bingcen/darknet/data_folder/validset/frame0023.jpg
+/home/bingcen/darknet/data_folder/validset/frame0033.jpg
