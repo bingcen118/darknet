@@ -1,6 +1,0 @@
-dds_data_folder/validset/frame0032.jpg
-dds_data_folder/validset/frame0059.jpg
-dds_data_folder/validset/frame0066.jpg
-dds_data_folder/validset/frame0073.jpg
-dds_data_folder/validset/frame0088.jpg
-dds_data_folder/validset/frame0090.jpg
